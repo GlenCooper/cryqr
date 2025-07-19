@@ -1,0 +1,2 @@
+# CryQR
+CryQR.com
